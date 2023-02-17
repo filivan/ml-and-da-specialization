@@ -13,9 +13,9 @@ by Moscow Institute of Physics and Technology & Yandex
 В финале вам потребуется выполнить проект собственной системы, решающей любую актуальную для бизнеса задачу. Результатом будет наглядная работающая модель, которую вы сможете использовать в вашей повседневной работе или продемонстрировать на собеседовании.
 
 ## Специализация включает шесть курсов: 
-- [X] 1. [Математика и Python для анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/1%20-%20Mathematics%20and%20python%20for%20data%20analysis) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/HZ4H8AML756Q)]
-- [X] 2. [Обучение на размеченных данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/2%20-%20Training%20on%20labeled%20data) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/AU7QDYVKTMA6)]
-- [X] 3. [Поиск структуры в данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/GXLKR2M7DVRL)]
-- [X] 4. [Построение выводов по данным](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/BQMH5TWU2N4N)]
-- [X] 5. [Прикладные задачи анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/8LMSAQ8RXAUE)]
-- [X] 6. [Анализ данных: финальный проект](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project)[[Сертификат](https://www.coursera.org/account/accomplishments/verify/TTJE99HW4U5A)]
+- [X] 1. [Математика и Python для анализа данных](./C1_Math_and_python_for_data_analysis/) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/HZ4H8AML756Q)]
+- [X] 2. [Обучение на размеченных данных](./C2_Supervised_Learning/) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/AU7QDYVKTMA6)]
+- [X] 3. [Поиск структуры в данных](./C3_Unsupervised_Learning/) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/GXLKR2M7DVRL)]
+- [X] 4. [Построение выводов по данным](./C4_Stats_for_data_analysis/) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/BQMH5TWU2N4N)]
+- [X] 5. [Прикладные задачи анализа данных](./C5_Data_analysis_applications/) [[Сертификат](https://www.coursera.org/account/accomplishments/verify/8LMSAQ8RXAUE)]
+- [X] 6. [Анализ данных: финальный проект](./C6_Data_analysis_project/)[[Сертификат](https://www.coursera.org/account/accomplishments/verify/TTJE99HW4U5A)]
